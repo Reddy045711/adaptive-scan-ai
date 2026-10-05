@@ -1,0 +1,7 @@
+{
+  "name": "Adaptive Scan AI",
+  "description": "Clinician-controlled medical imaging decision-support system featuring pre-inference quality gating, adaptive explainability, and immutable human-in-the-loop decision logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
